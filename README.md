@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=Dong-Kyu gitHub%20Github!&fontSize=70&animation=fadeIn" />	
+	<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=DongKyu%20gitHub%20Github!&fontSize=70&animation=fadeIn" />	
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
