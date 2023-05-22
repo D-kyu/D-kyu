@@ -40,23 +40,23 @@
 	<a href="https://sneaky-mascara-833.notion.site/78d3f05514754c0d84825bf901a5cdb2">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
-	<a href="mailto:dmswll97@gmail.com">
+	<a href="mailto:dkrara93@naver.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<br>
 </div>
 <div align=center>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EunjiShinRabbit&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DongKyu&layout=compact">
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=EunjiShinRabbit&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=DongKyu&show_icons=true">
   <br>
   <br>
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmswll97)](https://solved.ac/dmswll97)
+
   
-  <br>
+
 </div>
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=100&section=footer&text=Thank%20You!&fontSize=60"/>
