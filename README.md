@@ -38,7 +38,7 @@
 </div>
 <div align=center>
 	<a href="https://sneaky-mascara-833.notion.site/78d3f05514754c0d84825bf901a5cdb2">
-		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
+		<img src="https://https://www.notion.so/aa6eeb9609ad455e8cf2af7053a756d9" />
 	</a>
 	<a href="mailto:dkrara93@naver.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
@@ -47,10 +47,10 @@
 </div>
 <div align=center>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DongKyu&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-kyu&layout=compact">
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=DongKyu&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=D-kyu&show_icons=true">
   <br>
   <br>
   
